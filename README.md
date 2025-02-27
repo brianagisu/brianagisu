@@ -9,8 +9,8 @@ i am an ambitious developer who copes up with the changing technology.....
 * 🌍  I'm based in Nairobi, Kiambu county
 * ✉️  You can contact me at [brianagisu48@gmail.com](mailto:brianagisu48@gmail.com)
 * 🧠  I'm learning programing project
-* 🤝  I'm open to collaborating on projects
-* ⚡  i'm secretly qeneus but don't tell any one but oop!! just tell everyone who i'm
+* 🤝  I'm open to collaborating on programming projects
+* ⚡  i'm secretly genius but don't tell any one but oop!! just tell everyone who i'm😃😃
 
 <a href="https://www.github.com/brian Agisu" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/brian Agisu?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/brian Agisu" target="_blank" rel="noreferrer"><img
