@@ -18,9 +18,6 @@ src="https://img.shields.io/twitter/follow/brian Agisu?logo=twitter&style=for-th
 /></a><a href="https://www.twitch.tv/brian Agisu" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/brian Agisu?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
-### Skills
-<a href="https://coffeescript.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/coffeescript-colored.svg" 
-
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/brianagisu) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/@humble boy) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@brianagisu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:brianagisu48@gmail.com) 
 
